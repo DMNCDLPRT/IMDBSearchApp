@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IMDB Search App</string>
+    <string name="movie_poster_image">Movie Poster Image</string>
+    <string name="actors">Actors</string>
+    <string name="characters">Characters</string>
+    <string name="search_results">search results…</string>
+    <string name="as">as</string>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
+
